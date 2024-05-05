@@ -1,0 +1,6 @@
+2,joel,23
+3,hanil boi,100
+4,apple,34
+6,joel velerian crasta,67
+7,happu,34
+8,evion cutina,45
